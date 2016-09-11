@@ -69,11 +69,11 @@ HKLM,%Cache%\%Base%,SlowInfoCache,0x00000004,       ; delete
 HKLM,%Cache%\%Base%,Changed,0x00010001,1
 
 [Strings]
-Description="Hathor Dvorak"
+Description="Hacker Dvorak"
 Publisher="Hathor Gaia"
-Revision="1.11.17"
+Revision="1.0"
 Base="kbddvp"
-Variant=1936
+Variant=1117
 CodePage=0409	; US
 CCS="SYSTEM\CurrentControlSet\Control"
 Uninstall="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall"

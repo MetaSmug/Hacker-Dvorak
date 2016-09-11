@@ -24,11 +24,11 @@ VersionInfo=VersionSection
 [VersionSection]
 FromFile=kbddvp32.dll
 [Strings]
-InstallPrompt=Install Hathor Dvorak keyboard layout?
+InstallPrompt=Install Hacker Dvorak keyboard layout?
 DisplayLicense=
-FinishMessage=Hathor Dvorak installation complete
+FinishMessage=Hacker Dvorak installation complete
 TargetName=kbddvp.exe
-FriendlyName=Hathor Dvorak
+FriendlyName=Hacker Dvorak
 AppLaunched=.\launcher.exe kbddvp.inf
 PostInstallCmd=<None>
 AdminQuietInstCmd=

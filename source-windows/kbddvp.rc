@@ -2,8 +2,8 @@
 #include "ntverp.h"
 
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION 1,11,17,0
- PRODUCTVERSION 1,11,17,0
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
  FILEFLAGSMASK 0x17L
 #ifdef _DEBUG
  FILEFLAGS VS_FF_DEBUG // 0x1L
@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "000004b0"
         BEGIN
-            VALUE "FileDescription", "Hathor Dvorak Keyboard Layout\0"
+            VALUE "FileDescription", "Hacker Dvorak Keyboard Layout\0"
             VALUE "CompanyName", "Hathor's Love\0"
-            VALUE "FileVersion", "1.11.17\0"
+            VALUE "FileVersion", "1.0.0\0"
             VALUE "InternalName", "kbddvp\0"
-            VALUE "LegalCopyright", "Copyright (C) 1997-2015 Hathor Gaia\0"
+            VALUE "LegalCopyright", "Copyright (C) 2016 Hathor Gaia\0"
             VALUE "OriginalFilename", "kbddvp.dll\0"
-            VALUE "ProductName", "Hathor Dvorak\0"
-            VALUE "ProductVersion", "1.11.17\0"
+            VALUE "ProductName", "Hacker Dvorak\0"
+            VALUE "ProductVersion", "1.0.0\0"
         END
     END
     BLOCK "VarFileInfo"

@@ -6,15 +6,15 @@
 ; 6. User Configuration\Software Settings\Software installation
 ; 7. Right-click and choose New | Package...
 ; 8. Files of type=ZAW Down-level application packages (*.zap)
-; 9. File name=kbddvp-1_11_17.zap
+; 9. File name=kbddvp-1_0.zap
 ;10. Select deployment method: Published
 ;11. OK
 
 [Application]
-FriendlyName=Hathor Dvorak
+FriendlyName=Hacker Dvorak
 ;<http://www.microsoft.com/technet/prodtechnol/ie/ieak/techinfo/deploy/60/en/iexpswit.mspx?mfr=true>
-SetupCommand="kbddvp-1_11_17-i386.exe" -q:a
-DisplayVersion=1.11.17
+SetupCommand="kbddvp-1_0-i386.exe" -q:a
+DisplayVersion=1.0
 Publisher=Hathor Gaia
 URL=http://www.hathorslove.com/
 LCID=1117
