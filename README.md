@@ -1,14 +1,13 @@
 # Hacker-Dvorak
-A Dvorak keyboard layout for programmers.
+## A US English Dvorak keyboard layout for programmers.
 
 Here is the initial layout:
 
 ![](http://hathor.link/keyboard-layout.png)
 
-I started with Programmer Dvorak by Roland Kaufmann:
-http://www.kaufmann.no/roland/dvorak/
+I made some tweaks to [Programmer Dvorak](http://www.kaufmann.no/roland/dvorak/) to work better with my own personal workflow.
 
-I will attempt to make a generic version at some point, but feel free to fork this as a starting point for your own layout.
+I will attempt to make a more generic version at some point, but feel free to fork this as a starting point for your own layout.
 
 # Design Philosophy
 
@@ -16,7 +15,7 @@ I am using a Microsoft Natural Ergonomic Keyboard 4000:
 
 ![](http://hathor.link/ms-keyboard.jpg)
 
-I made some tweaks to Programmer Dvorak to work better with my own personal workflow.
+I have small hands so I tend to use my ring fingers a lot more than my pinky fingers to access keys higher up on the keyboard.  These are indicated in green.  Orange is for the middle fingers. Pink is left hand index and purple in right hand index (colored this way to show the split in the ergonomic keyboard).  Yellow and red indicate that I change fingers depending on the context, usually in relation to shifting and using hotkeys.
 
 Here are the changes from Programmer Dvorak:
 
@@ -32,7 +31,7 @@ I retained the shift and caps lock requirement for the top number row as I like 
 
 ## 9/11/16 - Initial Release
 
-I got the keys all remapped the way I want it to be.  Tested and working on Windows 10 x64.  Should work fine on other Windows OSes as well.  
+I got the keys all remapped the way I want it to be.  Tested and working on Windows 10 x64.  Should work fine on other Windows OSes as well.  Should be fairly easy to port to Linux and OS X.
 
 # Known Issues
 
