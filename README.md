@@ -19,7 +19,7 @@ I have small hands so I tend to use my ring fingers a lot more than my pinky fin
 
 Here are the changes from Programmer Dvorak:
 
-1. Swapped the X and Q -> this puts X back where it is on QWERTY allowing the cut function to work as before.  These keys are rarer in English so it shouldn't make too much of a difference.
+1. Swapped the X and Q -> this puts X back where it is on QWERTY allowing the cut function to work as before.  Q is now next to U which is more intuitive for me. These keys are rare in English so it shouldn't be too hard to mentally swap them out.
 2. Swapped the number pad back to the traditional layout while retaining the programmer functionality.  I do not understand the logic behind swapping 1/7, 2/8, and 9/3...this seems unnecessary.
 3. Swapped & and $.  I personally use $ more than & (especally when coding PHP), so it is easier for me to reach.
 4. Put the top number row back in traditional order.  I use a lot of tabbed apps and CTRL-<num> for navigation is more convienient/comfortable for navigating.  If I need to enter in a lot of numbers the number pad is more efficient for me.  
