@@ -11,7 +11,7 @@ I will attempt to make a more generic version at some point, but feel free to fo
 
 # Design Philosophy
 
-I am using a Microsoft Natural Ergonomic Keyboard 4000:
+I am currently using a Microsoft Natural Ergonomic Keyboard 4000 and designed the layout with this keyboard in mind:
 
 ![](ms-keyboard.jpg)
 
