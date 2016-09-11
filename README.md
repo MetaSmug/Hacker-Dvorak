@@ -3,7 +3,7 @@
 
 Here is the initial layout:
 
-![](http://hathor.link/keyboard-layout.png)
+![](keyboard-layout.png)
 
 I made some tweaks to [Programmer Dvorak](http://www.kaufmann.no/roland/dvorak/) to work better with my own personal workflow.
 
@@ -13,7 +13,7 @@ I will attempt to make a more generic version at some point, but feel free to fo
 
 I am using a Microsoft Natural Ergonomic Keyboard 4000:
 
-![](http://hathor.link/ms-keyboard.jpg)
+![](ms-keyboard.jpg)
 
 I have small hands so I tend to use my ring fingers a lot more than my pinky fingers to access keys higher up on the keyboard.  These are indicated in green.  Orange is for the middle fingers. Pink is left hand index and purple in right hand index (colored this way to show the split in the ergonomic keyboard).  Yellow and red indicate that I change fingers depending on the context, usually in relation to shifting and using hotkeys.
 
@@ -35,4 +35,4 @@ I got the keys all remapped the way I want it to be.  Tested and working on Wind
 
 # Known Issues
 
-Please check the issues tracker.
+Please check the issues tracker.  If you have any issues/questions/comments, please open a ticket in the issue tracker.
